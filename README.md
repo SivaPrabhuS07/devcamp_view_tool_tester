@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+DevcampViewToolTester::Renderer.copyright "Jordan Hudges", "Allrights reserved"
+```
 
 ## Development
 
